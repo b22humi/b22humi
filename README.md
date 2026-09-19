@@ -1,6 +1,6 @@
 ![Bhumi Phadol Banner](./banner.png)
 
-# 👋 Hi, I'm Bhumi
+#  Hi, I'm Bhumi
 
 ### 💻 IT Engineering Student
 
@@ -41,7 +41,6 @@ and become a well-rounded software engineer.
 
 ---
 
-## Always Learning. Always Building. Always Improving.
 
 ---
 
